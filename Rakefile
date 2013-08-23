@@ -14,8 +14,8 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "staf-java"
-  gem.homepage = "http://github.com/joey-he8x/staf-java"
+  gem.name = "staf-jars"
+  gem.homepage = "http://github.com/joey-he8x/staf-java-gem"
   gem.license = "MIT"
   gem.summary = "Pack staf.jar and customer staf_cmd jar"
   gem.description = "Pack staf.jar and customer staf_cmd jar"

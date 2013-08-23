@@ -1,5 +1,0 @@
-if RUBY_PLATFORM =~ /java/
-  Dir['*.jar'].each do |jar|
-    require jar
-  end
-end

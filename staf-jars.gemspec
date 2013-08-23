@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = "staf-java"
+  s.name = "staf-jars"
   s.version = "0.4.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -24,21 +24,12 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "lib/JSTAF.jar",
-    "lib/commons-logging.jar",
-    "lib/gson-1.6.jar",
-    "lib/logback-classic-1.0.6.jar",
-    "lib/logback-core-1.0.6.jar",
-    "lib/ojdbc14.jar",
-    "lib/slf4j-api-1.6.6.jar",
     "lib/staf-java.rb",
-    "lib/staf.log",
-    "lib/staf_cmd_java.jar",
     "staf-java.gemspec",
     "test/helper.rb",
     "test/test_staf-java.rb"
   ]
-  s.homepage = "http://github.com/joey-he8x/staf-java"
+  s.homepage = "http://github.com/joey-he8x/staf-java-gem"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.24"
