@@ -24,8 +24,16 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-    "lib/staf-java.rb",
-    "staf-java.gemspec",
+    "lib/staf-jars.rb",
+    "lib/staf-jars/JSTAF.jar",
+    "lib/staf-jars/commons-logging.jar",
+    "lib/staf-jars/gson-1.6.jar",
+    "lib/staf-jars/logback-classic-1.0.6.jar",
+    "lib/staf-jars/logback-core-1.0.6.jar",
+    "lib/staf-jars/ojdbc14.jar",
+    "lib/staf-jars/slf4j-api-1.6.6.jar",
+    "lib/staf-jars/staf_cmd_java.jar",
+    "staf-jars.gemspec",
     "test/helper.rb",
     "test/test_staf-java.rb"
   ]
