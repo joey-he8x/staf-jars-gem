@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+<<<<<<< HEAD
     "lib/JSTAF.jar",
     "lib/commons-logging.jar",
     "lib/gson-1.6.jar",
@@ -34,6 +35,10 @@ Gem::Specification.new do |s|
     "lib/staf-jars.rb",
     "lib/staf_cmd_java.jar",
     "staf-jars.gemspec",
+=======
+    "lib/staf-java.rb",
+    "staf-java.gemspec",
+>>>>>>> parent of ea34e3a... Revert "Revert "update gemspec""
     "test/helper.rb",
     "test/test_staf-java.rb"
   ]
