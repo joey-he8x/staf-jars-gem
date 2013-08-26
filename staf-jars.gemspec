@@ -24,21 +24,16 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
-<<<<<<< HEAD
-    "lib/JSTAF.jar",
-    "lib/commons-logging.jar",
-    "lib/gson-1.6.jar",
-    "lib/logback-classic-1.0.6.jar",
-    "lib/logback-core-1.0.6.jar",
-    "lib/ojdbc14.jar",
-    "lib/slf4j-api-1.6.6.jar",
     "lib/staf-jars.rb",
-    "lib/staf_cmd_java.jar",
+    "lib/staf-jars/JSTAF.jar",
+    "lib/staf-jars/commons-logging.jar",
+    "lib/staf-jars/gson-1.6.jar",
+    "lib/staf-jars/logback-classic-1.0.6.jar",
+    "lib/staf-jars/logback-core-1.0.6.jar",
+    "lib/staf-jars/ojdbc14.jar",
+    "lib/staf-jars/slf4j-api-1.6.6.jar",
+    "lib/staf-jars/staf_cmd_java.jar",
     "staf-jars.gemspec",
-=======
-    "lib/staf-java.rb",
-    "staf-java.gemspec",
->>>>>>> parent of ea34e3a... Revert "Revert "update gemspec""
     "test/helper.rb",
     "test/test_staf-java.rb"
   ]
