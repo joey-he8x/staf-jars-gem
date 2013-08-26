@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["joey.he"]
-  s.date = "2013-08-23"
+  s.date = "2013-08-26"
   s.description = "Pack staf.jar and customer staf_cmd jar"
   s.email = "joey.he8x@qq.com"
   s.extra_rdoc_files = [
@@ -24,15 +24,15 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "lib/JSTAF.jar",
+    "lib/commons-logging.jar",
+    "lib/gson-1.6.jar",
+    "lib/logback-classic-1.0.6.jar",
+    "lib/logback-core-1.0.6.jar",
+    "lib/ojdbc14.jar",
+    "lib/slf4j-api-1.6.6.jar",
     "lib/staf-jars.rb",
-    "lib/staf-jars/JSTAF.jar",
-    "lib/staf-jars/commons-logging.jar",
-    "lib/staf-jars/gson-1.6.jar",
-    "lib/staf-jars/logback-classic-1.0.6.jar",
-    "lib/staf-jars/logback-core-1.0.6.jar",
-    "lib/staf-jars/ojdbc14.jar",
-    "lib/staf-jars/slf4j-api-1.6.6.jar",
-    "lib/staf-jars/staf_cmd_java.jar",
+    "lib/staf_cmd_java.jar",
     "staf-jars.gemspec",
     "test/helper.rb",
     "test/test_staf-java.rb"
