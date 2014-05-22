@@ -27,7 +27,7 @@ Gem::Specification.new do |s|
     "lib/staf-jars.rb",
     "lib/staf-jars/JSTAF.jar",
     "lib/staf-jars/commons-logging.jar",
-    "lib/staf-jars/gson-1.6.jar",
+    "lib/staf-jars/fastjson-1.1.40.jar",
     "lib/staf-jars/logback-classic-1.0.6.jar",
     "lib/staf-jars/logback-core-1.0.6.jar",
     "lib/staf-jars/ojdbc14.jar",
