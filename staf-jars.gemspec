@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "staf-jars"
-  s.version = "0.6.1"
+  s.version = "0.7.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["joey.he"]
-  s.date = "2013-12-23"
+  s.date = "2014-05-22"
   s.description = "Pack staf.jar and customer staf_cmd jar"
   s.email = "joey.he8x@qq.com"
   s.extra_rdoc_files = [
