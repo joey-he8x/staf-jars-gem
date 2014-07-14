@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: http://ruby.taobao.org/
   specs:
     activesupport (4.0.0)
       i18n (~> 0.6, >= 0.6.4)
@@ -8,6 +8,7 @@ GEM
       thread_safe (~> 0.1)
       tzinfo (~> 0.3.37)
     addressable (2.3.5)
+    atomic (1.1.12)
     atomic (1.1.12-java)
     builder (3.2.2)
     faraday (0.8.8)
@@ -40,6 +41,7 @@ GEM
     multi_json (1.7.8)
     multi_xml (0.5.5)
     multipart-post (1.2.0)
+    nokogiri (1.5.10)
     nokogiri (1.5.10-java)
     oauth2 (0.9.2)
       faraday (~> 0.8)
@@ -58,6 +60,8 @@ GEM
     shoulda-context (1.1.4)
     shoulda-matchers (2.2.0)
       activesupport (>= 3.0.0)
+    thread_safe (0.1.2)
+      atomic
     thread_safe (0.1.2-java)
       atomic
     tzinfo (0.3.37)
